@@ -1,0 +1,8 @@
+input[type="number"] {
+    border-radius: 5px;
+    background-color: rgb(246, 186, 121);
+}
+
+body {
+    background-color: pink;
+}
